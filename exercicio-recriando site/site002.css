@@ -2,6 +2,10 @@ body {
   margin: 0 auto;
 }
 
+h1 {
+  font-family: "roboto";
+}
+
 .post-container {
   width: 65%;
   background-color: #fffafa;
@@ -18,10 +22,6 @@ body {
   font-family: "Roboto";
 }
 
-h1 {
-  font-family: "Montserrat";
-}
-
 .post-container .post {
-  padding: 30px 0 30px 50px;
+  padding: 8px 0 30px 50px;
 }
