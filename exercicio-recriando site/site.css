@@ -1,0 +1,42 @@
+body {
+  background-color: rgba(48, 92, 134, 0.849);
+}
+
+h1 {
+  color: white;
+}
+
+h3 {
+  color: yellow;
+}
+
+.Dias-semanais {
+  color: white;
+}
+
+#barra {
+  color: black;
+  border: solid 5px yellow;
+  background-color: yellow;
+  border-radius: 4px;
+}
+
+#cont-segunda {
+  color: white;
+}
+
+#cont-terça {
+  color: white;
+}
+
+#astronomy-class {
+  color: red;
+}
+
+#cont-quarta {
+  color: white;
+}
+
+#astronomy-class {
+  color: red;
+}
