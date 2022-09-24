@@ -1,5 +1,5 @@
 body {
-  background-color: rgba(48, 92, 134, 0.849);
+  background-color: #2c3e50;
 }
 
 h1 {
@@ -16,9 +16,9 @@ h3 {
 
 #barra {
   color: black;
-  border: solid 5px yellow;
+  border: solid 2px black;
   background-color: yellow;
-  border-radius: 4px;
+  border-radius: 6px;
 }
 
 #cont-segunda {
