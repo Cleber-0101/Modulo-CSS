@@ -46,6 +46,8 @@ body {
   }
 }
 
+/*Responsivo para mobile*/
+
 @media (max-width: 320px) {
   .titulo-content {
     font-size: 20px;
@@ -54,10 +56,11 @@ body {
   }
 
   body {
-    background-color: blue;
+    background-color: red;
   }
 
   .text-content {
-    color: black;
+    color: white;
+    font-size: 10px;
   }
 }
