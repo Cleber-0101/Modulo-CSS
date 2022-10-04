@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: white;
 }
 
 * {
@@ -12,7 +12,28 @@ header {
   background-color: black;
   display: flex;
   justify-content: space-between;
-  padding: 15px;
+  align-items: center;
+  padding: 15px 25px;
+}
+
+.buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.buttonsheader {
+  font-size: 12px;
+  padding: 10px 15px;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: transparent;
+  border-color: white;
+  color: white;
+  transition: 0.7s;
+}
+
+.buttonsheader:hover {
+  border-color: #ff0044;
 }
 
 .logo-rock {
